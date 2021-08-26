@@ -21,3 +21,9 @@
 .form-control textarea:focus {
   outline-color: #00695c;
 }
+
+.order-button {
+  width: 100px;
+  height: 20px;
+  
+}
